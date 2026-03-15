@@ -18,13 +18,9 @@ The platform focuses on building strong foundations in **Frontend Development** 
 
 ## 🎬 Live Preview
 
-```html
-<a href="https://muhamedkhaled258-cmyk.github.io/courser/" target="_blank">
-  <img src="https://img.shields.io/badge/Live-Demo-red?style=for-the-badge&logo=google-chrome">
-</a>
-```
+https://courser-eosin.vercel.app/
 
----
+
 
 # ⚡ Tech Stack
 
